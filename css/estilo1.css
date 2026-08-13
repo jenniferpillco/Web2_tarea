@@ -1,0 +1,23 @@
+body{
+background-color:rgb(226, 189, 230);
+}   
+h1{
+    color:white;
+}
+h2{
+    font-family: Impact ;
+} 
+p{
+    background-color: white;
+}
+img{
+    width: 100px;
+    height: 100px ;
+}
+
+.prueba{
+    background-color: gainsboro;
+    font-family: Georgia;
+    font-size: 30px;
+    
+}
